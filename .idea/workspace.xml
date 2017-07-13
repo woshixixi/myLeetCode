@@ -11,7 +11,9 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d6aa9d3-dae4-4d6c-9303-f0c1a147ec4a" name="Default" comment="" />
+    <list default="true" id="6d6aa9d3-dae4-4d6c-9303-f0c1a147ec4a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/014-LongestCommonPrefix.cpp" afterPath="$PROJECT_DIR$/014-LongestCommonPrefix.cpp" />
+    </list>
     <ignored path="leetCode.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +32,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="014-LongestCommonPrefix.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/014-LongestCommonPrefix.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -53,6 +65,7 @@
         <option value="$PROJECT_DIR$/007-ReverseInteger.cpp" />
         <option value="$PROJECT_DIR$/009-PalindromeNumber.cpp" />
         <option value="$PROJECT_DIR$/013-RomanToInteger.cpp" />
+        <option value="$PROJECT_DIR$/014-LongestCommonPrefix.cpp" />
       </list>
     </option>
   </component>
@@ -291,11 +304,12 @@
       <workItem from="1499775396192" duration="2756000" />
       <workItem from="1499907346478" duration="463000" />
       <workItem from="1499908919194" duration="458000" />
+      <workItem from="1499913604120" duration="443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5947000" />
+    <option name="totallyTimeSpent" value="6390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="40" width="1260" height="695" extended-state="0" />
@@ -339,6 +353,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -403,7 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -411,6 +432,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/014-LongestCommonPrefix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
           <folding />
         </state>
       </provider>
